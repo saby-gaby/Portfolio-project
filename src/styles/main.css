@@ -360,7 +360,6 @@ body main #projects section p {
     justify-items: center;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: auto;
-    padding: 0 1rem;
   }
   body main #projects #pr-1, body main #projects #pr-2, body main #projects #pr-3 {
     margin: 0;
