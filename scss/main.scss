@@ -250,7 +250,6 @@ body {
             text-shadow: 1px 1px 0.25rem $dark, -1px -1px 0.25rem $dark, -1px 1px 0.25rem $dark, 1px -1px 0.25rem $dark;
             @include ueberschrift;
             
-
             @media (min-width:60em) {
                 height: 10em;
             }
