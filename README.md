@@ -38,7 +38,7 @@ You can see the final product or view its code.
 - [x] _npm_
 - [x] _git_
 
-### ontact
+### Contact
 
 Mail: <sgudzenova@gmail.com><br>
 GitHub: [saby-gaby](https://github.com/saby-gaby)<br>
