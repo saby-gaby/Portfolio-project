@@ -1,6 +1,6 @@
 # project
 
-**[take a look at the final product](https://saby-gaby.github.io/project/)**
+**[take a look at the final product](https://saby-gaby.github.io/Portfolio-project/)**
 
 ![Screenshots from Project](./src/Screenshot.png)
 
