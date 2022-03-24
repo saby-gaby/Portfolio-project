@@ -14,9 +14,9 @@
     - _https://github.com/saby-gaby_
     - _https://www.linkedin.com/in/sabina-gudzenova-3a8753234/_
 - Used Tools
-    - _Fonts_
+    - _Google Fonts_
     - _Design_
-    - _Icons_
+    - _Font Awesome_
     - _Colors_
     - _Animation_
 
@@ -52,6 +52,7 @@ LinkedIn: [Sabina Gudzenova](https://www.linkedin.com/in/sabina-gudzenova-3a8753
 - [Google Fonts](https://fonts.google.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Font Awesome](https://www.colorzilla.com/chrome/)
+- [Krita](https://krita.org/en/)
 
 ---
 
